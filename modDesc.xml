@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="62">
+     <author>CURATOFARMS</author>
+    <version>1.0</version>
+
+    <title>
+        <en>Oil Plant (Increased Speed)</en>
+        <de>Ölpflanze (Erhöhte Geschwindigkeit)</de>
+    </title>
+
+    <description>
+         <en>In game Oil Plant but with 4x cycles and increased output storage</en>
+        <de>Im Spiel Oil Plant, aber mit 4x Zyklen und erhöhtem Output-Speicher</de>
+    </description>
+
+    <iconFilename>$data/placeables/lizard/productionPoints/oilPlant/store_oilPlant.png</iconFilename>
+
+    <multiplayer supported="true" />
+
+    <storeItems>
+        <storeItem xmlFilename="oilPlant.xml"/>
+    </storeItems>
+
+    <l10n>
+        <text name="shopItem_modded_oilMill">
+        <en>Oil Plant (Increased Speed)</en>
+        <de>Ölpflanze (Erhöhte Geschwindigkeit)</de>
+        </text>
+        <text name="function_oilMill">
+         <en>In game Oil Plant but with 4x cycles and increased output storage</en>
+        <de>Im Spiel Oil Plant, aber mit 4x Zyklen und erhöhtem Output-Speicher</de>
+        </text>
+    </l10n>
+
+
+</modDesc>
